@@ -42,7 +42,7 @@ This repository presents a multivariate volatility analysis of three JSE-listed 
 
 **Orebotse Clifford Seitsang**  
 BCom Honours in Quantitative Finance  
-Focused on risk modeling,
+Focused on risk modeling and mathematical models to solve complex problems in finance
 
 ## 👥 Contributors
 
